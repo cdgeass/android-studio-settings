@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:58526" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-26T13:54:38.313908Z" />
+        <name value="Microsoft Corporation Subsystem for Android(TM)" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
