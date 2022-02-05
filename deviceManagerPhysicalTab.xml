@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="QV7201UF8G" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-05T03:00:04.898677500Z" />
+        <name value="Sony XQ-BC72" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="127.0.0.1:58526" />
           </Key>
         </key>
