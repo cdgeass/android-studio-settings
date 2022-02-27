@@ -36,6 +36,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.10.188:42365" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-27T13:47:47.002312600Z" />
+        <name value="Sony XQ-BC72" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
